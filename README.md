@@ -1,5 +1,8 @@
 # Zomato Restaurant Clustering and Sentiment Analysis
 
+## Project Link
+https://colab.research.google.com/drive/19eMR0LDcVdtUaq20-kN8u7EitZbh2-S_?usp=sharing
+
 ## Project Overview
 
 This project focuses on analyzing Zomato restaurant data to identify meaningful clusters and perform sentiment analysis on customer reviews. The objective is to gain insights into restaurant groupings based on various attributes and understand customer sentiments using Natural Language Processing (NLP) techniques.
